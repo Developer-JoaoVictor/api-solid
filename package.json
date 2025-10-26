@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Gympass style app",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "start": "node build/server.js",
